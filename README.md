@@ -16,4 +16,4 @@ Uporaba na lastno odgovornost.
 
 Želim vam prijetno izkušnjo!
 
-<img width="1080" height="2280" alt="image" src="https://github.com/user-attachments/assets/d3ab9cad-30fe-4a57-9307-c09e0bab842e" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/d3ab9cad-30fe-4a57-9307-c09e0bab842e" />
