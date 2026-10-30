@@ -13,7 +13,7 @@ Ko nameščate aplikacijo, je možnost, da ob nameščanju telefon javi, da je a
 Aplikacija ne zbira podatkov o uporabi ali kakršne koli telemetrije. Naj me strela zadane, če lažem.
 
 Uporaba na lastno odgovornost.
-<a href="https://github.com/Goba115/ARSO_desktop_widget_app/releases">Tukaj klikni do aplikacije</a>
+<a href="https://github.com/Goba115/ARSO_desktop_widget_app/releases">Tukaj klikni za prenos aplikacije</a>
 
 
 Želim vam prijetno izkušnjo!
